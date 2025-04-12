@@ -1,4 +1,4 @@
-# City-Connect
+# City-Connect-Web-Portal
 -->This project is a smart community management platform designed to enhance civic engagement, ensure public safety, and streamline issue resolution through AI and real-time communication. It provides a unified interface for residents, municipal corporations (MC), service providers, and local authorities.
 
 --> Key Modules
